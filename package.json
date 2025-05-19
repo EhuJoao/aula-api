@@ -1,0 +1,24 @@
+{
+  "name": "aula-api",
+  "version": "1.0.0",
+  "description": "Formulario PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhuJoao/PPI-FORMULARIO.git"
+  },
+  "author": "João Pedro Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EhuJoao/PPI-FORMULARIO/issues"
+  },
+  "homepage": "https://github.com/EhuJoao/PPI-FORMULARIO#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
